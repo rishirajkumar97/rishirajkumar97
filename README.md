@@ -6,7 +6,7 @@
 🛠️ +5 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Software and Product Engineering
--  🚀 Building New Apps and products.
++  🚀 Building New Apps and products.
 !  ✨ If you can imagine it, you can program it. 
 @@ 💻Solving problems from a self-built computer.@@
 ```
