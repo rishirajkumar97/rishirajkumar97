@@ -1,10 +1,22 @@
+  <!-- Profile Picture -->
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+
+  <!-- Description -->
+```diff
+🛠️ +5 years of professional experience.
++  ✔️ Responsible worker.
+#  👨‍💻 Software and Product Engineering
+-  🚀 Building New Apps and products.
+!  ✨ If you can imagine it, you can program it. 
+@@ 💻Solving problems from a self-built computer.@@
+```
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Ruby | Java | Elixir | JavaScript 
 - 🌐 &nbsp; Ruby on Rails | Flask | Django | Phoenix | Spring Boot | React | NodeJs
 - 🛢 &nbsp; MySQL | PostgreSQL | Redis | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Git | Grafana | Heroku | New Relic | Elastic Search | ELK | RabbitMQ | LangChain | Docker
-- AI/ML &nbsp; TensorFlow | PyTorch | Pandas/numpy | NLP | Deep Learning 
+- AI/ML &nbsp; TensorFlow | PyTorch | Pandas/numpy | NLP | Deep Learning
 
 
 
