@@ -6,15 +6,19 @@
 - 🔧 &nbsp;  Visual Studio code | Git | Grafana | Heroku | New Relic | Elastic Search | ELK | RabbitMQ | LangChain | Docker
 - AI/ML &nbsp; TensorFlow | PyTorch | Pandas/numpy | NLP | Deep Learning 
 
-<br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishirajkumar97&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats">
 
 </br>
 
+![rishirajkumar97's Stats](https://github-readme-stats.vercel.app/api?username=rishirajkumar97&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajkumar97&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+</br>
+
+![rishirajkumar97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishirajkumar97&theme=dracula&hide_border=true)
+
+</br>
+
+![rishirajkumar97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajkumar97&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
