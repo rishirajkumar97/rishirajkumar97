@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Ruby | Java | Elixir | JavaScript 
-- 🌐 &nbsp; Ruby on Rails | Flask | Django | Phoenix | Spring Boot | React | NodeJs
+- 🌐 &nbsp; Ruby on Rails | FastAPIs | Phoenix | Spring Boot | React | NodeJs
 - 🛢 &nbsp; MySQL | PostgreSQL | Redis | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Git | Grafana | Heroku | New Relic | Elastic Search | ELK | RabbitMQ | LangChain | Docker
 - AI/ML &nbsp; TensorFlow | PyTorch | Pandas/numpy | NLP | Deep Learning
