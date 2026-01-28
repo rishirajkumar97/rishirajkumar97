@@ -3,8 +3,8 @@
 
   <!-- Description -->
 ```diff
-🛠️ +5 years of professional experience.
-+  ✔️ Responsible worker.
+🛠️ 5+ years of professional experience.
++  ✔️ Responsible & Reliable worker.
 #  👨‍💻 Software and Product Engineering
 +  🚀 Building New Apps and products.
 !  ✨ If you can imagine it, you can program it. 
